@@ -11,7 +11,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 
 
 # About me
-Hello! My name is Bethany Edwards and I am a Master's in Entertainment Industry Management student at Carnegie Mellon University. I love filmmaking and the entertainment industry.
+Hello! My name is Bethany Edwards, and I am a Master's in Entertainment Industry Management student at Carnegie Mellon University. I love filmmaking and the entertainment industry.
 
 # What I hope to learn
 1. How to utilize the different style graphs to portray data most effectively.
