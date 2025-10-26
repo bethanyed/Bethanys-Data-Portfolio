@@ -3,7 +3,7 @@
 
 
 # About me
-Hello! My name is Bethany Edwards, and I am a Master's in Entertainment Industry Management student at Carnegie Mellon University. I love filmmaking and the entertainment industry; some of my favorite films include "The Perks of Being a Wallflower" and "How to Train Your Dragon". ![Me](IMG_93742 - COPY.JPG)
+Hello! My name is Bethany Edwards, and I am a Master's in Entertainment Industry Management student at Carnegie Mellon University. I love filmmaking and the entertainment industry; some of my favorite films include "The Perks of Being a Wallflower" and "How to Train Your Dragon". !![Me](IMG_93742 - Copy.JPG)
 
 # What I hope to learn
 1. How to utilize the different style graphs to portray data most effectively.
