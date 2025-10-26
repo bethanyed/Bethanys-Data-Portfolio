@@ -3,7 +3,7 @@
 
 
 # About me
-Hello! My name is Bethany Edwards, and I am a Master's in Entertainment Industry Management student at Carnegie Mellon University. I love filmmaking and the entertainment industry; some of my favorite films include "The Perks of Being a Wallflower" and "How to Train Your Dragon". 
+Hello! My name is Bethany Edwards, and I am a Master's in Entertainment Industry Management student at Carnegie Mellon University. I love filmmaking and the entertainment industry. Some of my favorite films include "The Perks of Being a Wallflower" and "How to Train Your Dragon". My goal is to work in film development or film acquisitions. 
 
 <img src="IMG_93742 - Copy.JPG" width="200"/>
 
@@ -23,11 +23,8 @@ Hello! My name is Bethany Edwards, and I am a Master's in Entertainment Industry
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 
-## Final project
+## Final project: [Part I](final-project-part-one) [Part II](final-project-part-two) [Part III](final-project-part-three)
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
 
 
 ## References
