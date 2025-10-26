@@ -16,10 +16,10 @@ Hello! My name is Bethany Edwards, and I am a Master's in Entertainment Industry
 
 # Examples
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing overnment Debt](visualizing-government-debt.md)
 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 
 ## Final project
