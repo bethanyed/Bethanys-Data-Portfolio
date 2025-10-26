@@ -1,4 +1,4 @@
-| [home page](https://bethanyed.github.io/Bethanys-Data-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://bethanyed.github.io/Bethanys-Data-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [visualizing government dept](visualizing-government-debt.md)
 # Portfolio
 
 
@@ -9,8 +9,9 @@ Hello! My name is Bethany Edwards, and I am a Master's in Entertainment Industry
 
 # What I hope to learn
 1. How to utilize the different style graphs to portray data most effectively.
-2. How to know what information is most important to include
-3. Overall best practices for infographic design!
+2. How to know what information is most important to include.
+3. How to critique different graphs.
+4. Overall best practices for infographic design!
 
 # Portfolio
 
