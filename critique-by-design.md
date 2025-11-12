@@ -37,7 +37,7 @@ Questions:
 5 Is there anything you would like to see changed on this graph?
 
 Results: 
-
+<img src="CritiquebyDesign.xlsx" width="200"/>
 
 Synthesis: 
 
