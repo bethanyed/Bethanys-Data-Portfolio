@@ -45,7 +45,13 @@ Results:
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+One of the major patterns that emerged from my interviews was that many of the interviewees were drawn to the data regarding the dogs. 3 out of 6 interviewees stated that the first thing they noticed was the large spike in dogs, on top of that, 5 out of 6 interviewees answered "What information can you infer from this graph?" with a variation of "dogs and cats are most common." This was an important note for my research because the goal of he graph is to represent the most common pets. 
+
+Next to that, 4 interviewees stated they think a different style of graph may better represent the data and make it easier to compare. 1 interviewee specifically mentioned that dots on the lines may make it easier to note each specific data point. 
+
+On top of that, the main notes throughout had to do with specific formatting regarding the headline, x-axis, and y-axis. Some adjustments included making the headline bold, spreading the axis out further for readability, or increasing the size of the key. The most popular visual feature was the color, with one interviewee noting that it was colorblind friendly.
+
+Overall, the graph was well-received, and the data was easily interpreted for its intended purpose. People noted the high percentage of cats and dogs, as well as some people noting the low pet population in Turkey. Most of the recommendations or notes were minor about formatting and layout. The colors were the most popular aspect of the graph.
 
 ## Step five: build the solution
 <div class='tableauPlaceholder' id='viz1762963243984' style='position: relative'><noscript><a href='#'><img alt='Percentage of households living with pets by country ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiquebyDesignAfter&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CritiquebyDesignAfter&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiquebyDesignAfter&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
@@ -55,11 +61,20 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+For my redesign, I focused on readability and ease of interpretation. My first edit included making the headline bold as well as modifying it so it could be slightly clearer on the data. I also spread the x-axis out further to make each country name fully visible. As recommended by an interviewee, I rearranged the overall average point to be at the front of the graph so that it is the first data point. 
 
-## References
+I took the one recommendation about adding dots to the lines and adjusted this to be a dot plot instead. Since the points weren't intended to be connected, I decided that a line graph didn't make the most sense, but the interview mentioning adding dots inspired me to make it a dot plot. 
+
+Overall, my entire process started with some research and choosing a data set that interested me. I spent a lot of time reviewing the original graph and trying to decide the best method to portray this data in a way that makes it easily comparable. I had initially chosen a line graph but later decided a dot plot made more sense. I wanted to ensure this graph was easily readable and easy to interpret, which from the interviews, I felt I achieved for the most part. I really enjoyed using the critique methods to break down the original graph and determine what was effective versus what was ineffective.
+
+## References & Sources
 [Man's Best Friend: Global Pet Ownership
 ](https://nielseniq.com/global/en/insights/report/2016/mans-best-friend-global-pet-ownership-and-feeding-trends/#:%5C~:text=More%20than%20half%20of%20people,likely%20to%20own%20a%20pet)
+
+[Data Set](https://data.world/makeovermonday/2025-week-14-pet-ownership)
+
+The graph was built using Tableau Desktop
+
 ## AI acknowledgements
-AI was not utilized in this assignment
+Grammarly was utilized to correct grammar and spelling.
 
