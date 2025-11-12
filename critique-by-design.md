@@ -4,6 +4,7 @@
 
 ## Step one: the visualization
 [Link to Original Graph](https://nielseniq.com/global/en/insights/report/2016/mans-best-friend-global-pet-ownership-and-feeding-trends/#:%5C~:text=More%20than%20half%20of%20people,likely%20to%20own%20a%20pet) 
+<img src="Screenshot 2025-11-12 174010.jpg" width="200"/>
 
 When choosing a visual for this redesign, I was drawn to this one for several reasons. The first thing that caught my attention was the data. I have a lot of pets and it interested me to see the trends in pet ownership around the world. Secondly, while I thought the main information of the overall averages was portrayed well, I thought the rest of the graph seemed cluttered, so I thought that a redesign could help improve the readability and make it easier to comprehend.
 
@@ -37,10 +38,9 @@ Questions:
 5 Is there anything you would like to see changed on this graph?
 
 Results: 
-<img src="CritiquebyDesign.xlsx" width="200"/>
+<img src="Screenshot 2025-11-12 173912.jpg" width="200"/>
 
 Synthesis: 
-
 One of the major patterns that emerged from my interviews was that many of the interviewees were drawn to the data regarding the dogs. 3 out of 6 interviewees stated that the first thing they noticed was the large spike in dogs, on top of that, 5 out of 6 interviewees answered "What information can you infer from this graph?" with a variation of "dogs and cats are most common." This was an important note for my research because the goal of he graph is to represent the most common pets. 
 
 Next to that, 4 interviewees stated they think a different style of graph may better represent the data and make it easier to compare. 1 interviewee specifically mentioned that dots on the lines may make it easier to note each specific data point. 
