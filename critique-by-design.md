@@ -9,7 +9,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 ## Step one: the visualization
 [Link to Original Graph](https://nielseniq.com/global/en/insights/report/2016/mans-best-friend-global-pet-ownership-and-feeding-trends/#:%5C~:text=More%20than%20half%20of%20people,likely%20to%20own%20a%20pet) 
 
-When choosing a visual for this redesign, I was drawn to this one for several reasons. The first thing that caught my attention was the data. I have a lot of pets and it interested me to see the trends in pet ownership around the world. Secondly, while I thought the main information was portrayed well, I thought the rest of the graph seemed cluttered, so I thought that a redesign could help improve the readability and make it easier to comprehend.
+When choosing a visual for this redesign, I was drawn to this one for several reasons. The first thing that caught my attention was the data. I have a lot of pets and it interested me to see the trends in pet ownership around the world. Secondly, while I thought the main information of the overall averages was portrayed well, I thought the rest of the graph seemed cluttered, so I thought that a redesign could help improve the readability and make it easier to comprehend.
 
 ## Step two: the critique
 Overall, the colors were what mainly stood out to me, as well as the visual icons they utilized. I think having the averages in the middle worked well because it stood out and made the most important bit of information visible. I don't like the lines with each country's percentage; I think it is too cluttered and overwhelming to look at. I also feel like the title is a bit unclear and could be more explanatory of what the graph is trying to convey.
