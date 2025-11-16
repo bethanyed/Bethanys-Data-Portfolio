@@ -1,12 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+For my final project, I want to create a breakdown of the creation of the film industry and its growth over the years. The final aspect will be a top box office breakdown for the year 2025 to illustrate what the top films of the year are. This will be followed by a call to action to encourage people to go out to their local theater and see a film. I would like to create a map visual that shows the density of movie theaters so people can find ones local to them.
  
-Text here...
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
@@ -15,7 +12,6 @@ Text here...
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
