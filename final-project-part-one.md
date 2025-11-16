@@ -10,7 +10,7 @@ For my final project, I want to create a breakdown of the creation of the film i
 Text here...
 
 ## Initial sketches
-<img src="IMG_1952.jpg" width="250"/><img src="IMG_1953.jpg" width="250"/><img src="IMG_1954.jpg" width="250"/><img src="IMG_1955.jpg" width="250"/>
+<img src="IMG_1952.JPG" width="250"/><img src="IMG_1953.JPG" width="250"/><img src="IMG_1954.JPG" width="250"/><img src="IMG_1955.JPG" width="250"/>
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
