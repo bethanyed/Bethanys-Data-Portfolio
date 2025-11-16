@@ -2,7 +2,7 @@
 
 
 # Outline
-For my final project, I want to create a breakdown of the creation of the film industry and its growth over the years. The final aspect will be a top box office breakdown for the year 2025 to illustrate what the top films of the year are. This will be followed by a call to action to encourage people to go out to their local theater and see a film. I would like to create a map visual that shows the density of movie theaters so people can find ones local to them.
+For my final project, I want to create a breakdown of the creation of the film industry and its growth over the years. The final aspect will be a top box office breakdown for the year 2025 to illustrate what the top films of the year are to draw interest into seeing one. This will be followed by a call to action to encourage people to go out to their local theater and see a film. I would like to create a map visual that shows the density of movie theaters so people can find ones local to them.
  
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
@@ -27,12 +27,12 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+To create my project, I have broken it down into a series of steps to streamline the process and ensure my timing stays on track. For the first step, I am narrowing down my story to determine exactly what I want to say. I am then going to create a wireframe outline of my project with a few sketches of the data visualizations I would like to create to support my material. 
 
-Text here...
+For the second step, I am going to research my topic and find sources to build my story around. In my research, I will put focus on finding sources that contain the data needed for my visualizations.
 
 ## References
-_List any references you used here._
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Grammarly was used to help edit spelling and grammar.
