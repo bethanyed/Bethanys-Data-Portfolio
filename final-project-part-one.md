@@ -11,8 +11,9 @@ Structurally, I want to break my project into 3 sections. The first one is a sum
 <img src="IMG_1952.JPG" width="250"/><img src="IMG_1953.JPG" width="250"/><img src="IMG_1954.JPG" width="250"/><img src="IMG_1955.JPG" width="250"/>
 
 # The data
-During the first round of my research, I identified 5 sources that contain varying data about the top films, production of films, as well as some data about streaming services. I will use this data to compare the value of the streaming industry versus theaters. Also, I will utilize the data to show the top films so people can choose a recent release that may interest them. I also used Google Maps to find local movie theaters so I can create a heat map to show the locations of local theaters.
+During the first round of my research, I identified 5 sources that contain varying data about the top films, production of films, as well as some data about streaming services. I will use this data to compare the value of the streaming industry versus theaters. Also, I will utilize the data to show the top films so people can choose a recent release that may interest them. I also used Google Maps to find local movie theaters so I can create a heat map to show the locations of local theaters. On top of these 5 sources, I will extend my research further to find more data that helps illustrate the story.
 
+<img src="IMG_1981.jpg" width="500"/>
 
 
 # Method and medium
