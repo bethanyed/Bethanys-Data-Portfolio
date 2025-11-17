@@ -3,11 +3,9 @@
 
 # Outline
 For my final project, I want to create a breakdown of the creation of the film industry and its growth over the years. The final aspect will be a top box office breakdown for the year 2025 to illustrate what the top films of the year are to draw interest into seeing one. This will be followed by a call to action to encourage people to go out to their local theater and see a film. I would like to create a map visual that shows the density of movie theaters so people can find ones local to them.
- 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Structurally, I want to break my project into 3 sections. The first one is a summary of the film industry from its creation to now, showcasing important elements like when theaters were created and the first film to break $1 billion at the box office. Secondly, I want to show the changes in the industry, such as the introduction of streaming platforms and COVID-19s impact on theaters. For the 3rd section, it will focus on popular movies of the year and encourage people to go out to see a film in theaters.
 
-Text here...
 
 ## Initial sketches
 <img src="IMG_1952.JPG" width="250"/><img src="IMG_1953.JPG" width="250"/><img src="IMG_1954.JPG" width="250"/><img src="IMG_1955.JPG" width="250"/>
@@ -24,8 +22,9 @@ For the second step, I am going to research my topic and find sources to build m
 
 Once I have my data, I am going to utilize Tableau to build each of these graphs. I did 4 sketches of graphs with specific data I would like to utilize, though I may adjust the style depending on what data and information I find in my research. Utilizing these graphs, I will build a short presentation in Shorthand to show off my story as well as my data. 
 
-## References
 
+## References
+Good Charts by Scott Berinato
 
 ## AI acknowledgements
 Grammarly was used to help edit spelling and grammar.
