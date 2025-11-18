@@ -2,7 +2,7 @@
 
 
 # Outline
-For my final project, I want to create a breakdown of the creation of the film industry and its growth over the years. The final aspect will be a top box office breakdown for the year 2025 to illustrate what the top films of the year are to draw interest into seeing one. This will be followed by a call to action to encourage people to go out to their local theater and see a film. I would like to create a map visual that shows the density of movie theaters so people can find ones local to them.
+For my final project, I want to create a breakdown of the creation of the film industry and the growth of movie theaters. I want to illustrate the importance of movie theaters as an experience and the benefits of seeing a film in theaters versus streaming. The final aspect will be what creates a good theater experience to encourage theaters to make adjustments to bring more foot traffic into movie theaters. This will be followed by a call to action to encourage people to go out to their local theater and see a film. I would like to create a map visual that shows the density of movie theaters so people can find ones local to them.
 
 Structurally, I want to break my project into 3 sections. The first one is a summary of the film industry from its creation to now, showcasing important elements like when theaters were created and the first film to break $1 billion at the box office. Secondly, I want to show the changes in the industry, such as the introduction of streaming platforms and COVID-19s impact on theaters. For the 3rd section, it will focus on popular movies of the year and encourage people to go out to see a film in theaters.
 
