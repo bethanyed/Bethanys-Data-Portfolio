@@ -2,9 +2,11 @@
 
 
 # Outline
-For my final project, I want to create a breakdown of the creation of the film industry and the growth of movie theaters. I want to illustrate the importance of movie theaters as an experience and the benefits of seeing a film in theaters versus streaming. The final aspect will be what creates a good theater experience to encourage theaters to make adjustments to bring more foot traffic into movie theaters. This will be followed by a call to action to encourage people to go out to their local theater and see a film. I would like to create a map visual that shows the density of movie theaters so people can find ones local to them.
+For my final project, I want to create a breakdown of the creation of the film industry and the growth of movie theaters over the years. I want to illustrate the importance of movie theaters as an experience and the benefits of seeing a film in theaters versus just streaming them at home. The final aspect will be what creates a good theater experience, to encourage theaters to make adjustments to bring more foot traffic into movie theaters. I want to make my target audience for the presentation the theater executives to encourage them to make meaningful change that helps support the continued growth of theaters.
 
-Structurally, I want to break my project into 3 sections. The first one is a summary of the film industry from its creation to now, showcasing important elements like when theaters were created and the first film to break $1 billion at the box office. Secondly, I want to show the changes in the industry, such as the introduction of streaming platforms and COVID-19s impact on theaters. For the 3rd section, it will focus on popular movies of the year and encourage people to go out to see a film in theaters.
+Structurally, I want to break my project into 3 sections. The first one is a summary of the film industry from its creation to now, showcasing important elements like when theaters were created and the first film to break $1 billion at the box office. Secondly, I want to show the changes in the industry, such as the introduction of streaming platforms and COVID-19s impact on theaters. For the final aspect, I want to focus on events that brought many people out to theaters. Some of these examples include "Avengers: Endgame (2019)" and "Barbie (2023). Both of these were major theatrical events that generated over one billion dollars at the box office. So they are great examples of times theaters excelled at getting more viewers to come see a film.
+
+By combining these elements, the project will demonstrate the growth and fall of the film industry and encourage theaters to make changes that help bring them back to their peak.
 
 
 ## Initial sketches
@@ -19,9 +21,9 @@ During the first round of my research, I identified 5 sources that contain varyi
 # Method and medium
 To create my project, I have broken it down into a series of steps to streamline the process and ensure my timing stays on track. For the first step, I am narrowing down my story to determine exactly what I want to say. I am then going to create a wireframe outline of my project with a few sketches of the data visualizations I would like to create to support my material. 
 
-For the second step, I am going to research my topic and find sources to build my story around. In my research, I will focus on finding sources that contain the data needed for my visualizations. Then, once I have my specific data, I will start to build my story around it so I can tell a specific story that is truthful to its data. 
+For the second step, I am going to research my topic further than I already have and find sources to develop my story around. In my research, I will focus on finding sources that contain the data needed for my visualizations as well. Then, once I have my specific data, I will start to build my story around it so I can tell a story about the development of movie theaters that is truthful to its data. 
 
-Once I have my data, I am going to utilize Tableau to build each of these graphs. I did 4 sketches of graphs with specific data I would like to utilize, though I may adjust the style depending on what data and information I find in my research. Utilizing these graphs, I will build a short presentation in Shorthand to show off my story as well as my data. 
+Once I have my data, I am going to utilize Tableau to build each of these graphs. I did some sketches of graphs with specific data I would like to utilize, though I may adjust the style depending on what data and information I find in my research. Utilizing these graphs, I will build a short presentation in Shorthand to show off my story as well as my data. 
 
 
 ## References
