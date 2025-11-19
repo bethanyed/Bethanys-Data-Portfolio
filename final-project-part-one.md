@@ -13,9 +13,9 @@ By combining these elements, the project will demonstrate the growth and fall of
 <img src="IMG_1952.JPG" width="250"/><img src="IMG_1953.JPG" width="250"/><img src="IMG_1954.JPG" width="250"/><img src="IMG_1955.JPG" width="250"/>
 
 # The data
-During the first round of my research, I identified 5 sources that contain varying data about the top films, production of films, as well as some data about streaming services. I will use this data to compare the value of the streaming industry versus theaters. Also, I will utilize the data to show the top films so people can choose a recent release that may interest them. I also used Google Maps to find local movie theaters so I can create a heat map to show the locations of local theaters. On top of these 5 sources, I will extend my research further to find more data that helps illustrate the story.
+During the first round of my research, I identified several sources that contain varying data about the top films, production of films, as well as some data about streaming services. I will use this data to compare the value of the streaming industry versus theaters. I also gathered some revenue data about "Avengers: Endgame (2019)" that will help develop the story of an event that boosted foot traffic to movie theaters. On top of these  sources, I will extend my research further to find more data that helps illustrate the growth of theaters.
 
-<img src="IMG_1981.jpg" width="500"/>
+<img src="IMG_1996.jpg" width="500"/>
 
 
 # Method and medium
