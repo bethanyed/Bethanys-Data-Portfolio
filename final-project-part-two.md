@@ -1,21 +1,16 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+Link to Shorthand Presentation(https://preview.shorthand.com/3IzhBFQBxAum5Shf)
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+For my target audience, I determined that I want to target theater executives and other stakeholders for movie theaters. Since my presentation and research focuses on movie theaters, the growth of streaming, and major events that lead to significant success in theater chains, I thought it made the most sense to target those in control of those chains. My call to action will be ways that they can improve their theaters to regain customers. So, to me it made the most sense to focus my target demographic on the decision makers for movie theaters.
 
-Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+For my interview, my goal is to ask people of varying demographics to review the Shorthand presentation and answer a short survey regarding its contents. I want to analyze the readability, effectiveness of graphs, as well as the overall effectiveness of the presentation. 
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -24,7 +19,6 @@ Text here!
 |      |                  |
 
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
