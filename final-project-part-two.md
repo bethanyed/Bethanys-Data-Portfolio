@@ -11,6 +11,7 @@ For my target audience, I determined that I want to target theater executives an
 
 ## Interview script
 For my interview, my goal is to ask people of varying demographics to review the Shorthand presentation and answer a short survey regarding its contents. I want to analyze the readability, effectiveness of graphs, as well as the overall effectiveness of the presentation. 
+[Link to survey](https://docs.google.com/forms/d/e/1FAIpQLScYso9KjHQvQMRH9_XS2N7cIKG7HoDms7HlDHHdLTl_W0OHZw/viewform?usp=sharing&ouid=110154450609000391477)
 
 <img src="goals.jpg" width="350"/>
 
