@@ -50,9 +50,7 @@ Text here!
 Text here!
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+<img src="White & Brown Aesthetic Moodboard Photo Collage.jpg" width="500"/>
 
 ## References
 _List any references you used here._
