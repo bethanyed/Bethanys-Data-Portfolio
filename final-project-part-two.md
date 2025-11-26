@@ -38,7 +38,7 @@ They thought the call to action was clear and it fit the target audience well. T
 
 # Moodboards 
 For my moodboard, I wanted to create the old-timey theater feel with the warm browns and golds, while also including a splash of red representing the red carpet, but also to add some additional color to the slides.
-<img src="White & Brown Aesthetic Moodboard Photo Collage.jpg" width="500"/>
+<img src="White & Brown Aesthetic Moodboard Photo Collage.jpg" width="750"/>
 
 ## References
 Shorthand for presentation
