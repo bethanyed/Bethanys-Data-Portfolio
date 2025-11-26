@@ -7,44 +7,34 @@ For my presentation, I outlined some sections I will be discussing as well as in
 # User research 
 
 ## Target audience
-For my target audience, I determined that I want to target theater executives and other stakeholders for movie theaters. Since my presentation and research focuses on movie theaters, the growth of streaming, and major events that lead to significant success in theater chains, I thought it made the most sense to target those in control of those chains. My call to action will be ways that they can improve their theaters to regain customers. So, to me it made the most sense to focus my target demographic on the decision makers for movie theaters.
+For my target audience, I determined that I want to target theater executives and other stakeholders for movie theaters. Since my presentation and research focus on movie theaters, the growth of streaming, and major events that lead to significant success in theater chains, I thought it made the most sense to target those in control of those chains. My call to action will be ways that they can improve their theaters to regain customers. So, to me, it made the most sense to focus my target demographic on the decision makers for movie theaters.
 
 
 ## Interview script
-For my interview, my goal is to ask people of varying demographics to review the Shorthand presentation and answer a short survey regarding its contents. I want to analyze the readability, effectiveness of graphs, as well as the overall effectiveness of the presentation. On top of the short survey that will be sent out, I will interview several people in person regarding the presentation as well to get further reactions of what is being presented.
+For my interview, my goal is to ask people of varying demographics to review the Shorthand presentation and answer a short survey regarding its contents. I want to analyze the readability, effectiveness of graphs, as well as overall effectiveness of the presentation. On top of the short survey that will be sent out, I will interview several people in person regarding the presentation as well to get further reactions of what is being presented. These interviews will be conducted over the Thanksgiving holiday, and the findings will be listed in Final Part III. However, the in-class critique will be included below.
 [Link to survey](https://docs.google.com/forms/d/e/1FAIpQLScYso9KjHQvQMRH9_XS2N7cIKG7HoDms7HlDHHdLTl_W0OHZw/viewform?usp=sharing&ouid=110154450609000391477)
 
-<img src="goals.jpg" width="350"/>
+<img src="goals.jpg" width="500"/>
 
 
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+## In-class Interview findings
+For my in-class interviews, I presented my Shorthand briefly and explained the direction I am planning to go with it. The initial reactions were excitement over the design of the presentation. Two Master's of Arts Management interviewees enjoyed the layout of the presentation; they found it organized and easy to follow. They thought the headings were clear and made each section identifiable. 
 
-Text here!
+Following that, they explained that the color of the first data viz was a bit unclear and made recommendations on improving the clarity of that graph. They made a few recommendations on types of data visualizations I could focus on as well. 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+They thought the call to action was clear and it fit the target audience well. Though they recommended expanding on the specific steps theaters can take. They also recommended utilizing specific examples from audiences to support the statements.
 
 
 # Identified changes for Part III
 
-Text here!
+- Improved clarity of first data viz; make color more specific, add a subheading to describe the graph.
+- Include data viz that has details about watching habits, preferences on films, and what discourages people from attending theaters.
+- Make data viz larger and easier to view on Shorthand.
+- Expand on call-to-action steps.
+- Narrow down specific sections of the presentation that clarify the point. 
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
-
-Text here!
 
 # Moodboards 
 For my moodboard, I wanted to create the old-timey theater feel with the warm browns and golds, while also including a splash of red representing the red carpet, but also to add some additional color to the slides.
@@ -55,4 +45,4 @@ Shorthand for presentation
 Canva for moodboard, all images included are from Canva's free library
 
 ## AI acknowledgements
-No AI was used for this assignment.
+Grammarly was used for grammar and spell check. Google Gemini was utilized to take data from Box Office Mojo and put it into an Excel sheet to turn into graphs.
