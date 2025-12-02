@@ -1,4 +1,4 @@
-| [home page](https://bethanyed.github.io/Bethanys-Data-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) | [visualizing government dept](visualizing-government-debt.md)
+| [home page](https://bethanyed.github.io/Bethanys-Data-Portfolio/) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) | [visualizing government dept](visualizing-government-debt.md)
 # Portfolio
 
 
