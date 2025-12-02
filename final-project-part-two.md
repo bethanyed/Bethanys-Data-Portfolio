@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://bethanyed.github.io/Bethanys-Data-Portfolio/) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) | [visualizing government dept](visualizing-government-debt.md)
 
 # Wireframe
 For my presentation, I outlined some sections I will be discussing as well as including some links with data I want to utilize for that section. I have also included some rough data visualizations that will be further tuned for the final presentation.
