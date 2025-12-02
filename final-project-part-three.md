@@ -1,7 +1,7 @@
 | [home page](https://bethanyed.github.io/Bethanys-Data-Portfolio/) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) | [visualizing government dept](visualizing-government-debt.md)
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+[Shorthand link](https://preview.shorthand.com/3IzhBFQBxAum5Shf)
 
 Text here!
 
