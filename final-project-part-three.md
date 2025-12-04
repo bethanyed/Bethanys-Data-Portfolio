@@ -5,14 +5,12 @@
 
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+Since part 2, I have expanded my wireframe into a presentation that is more fleshed out. I added text to each section that supports the details of the header. The first two data visualizations I had created were modified to fit the specific color scheme that matches my mood board, which is red and gold. On top of that, I created two more data visualizations. The first one is a line graph that compares the Marvel Cinematic Universe box office earnings. I liked the data for this one specifically because it shows the massive spike for Avengers: Endgame, which helped support my claims in the paragraph. Next to that, I created a graph with different sized squares to indicate the difference between viewership in theaters and at home. Each block indicates a different medium, but the two colors indicate which ones are in the theater and which ones are from home. The visual aspects were fine-tuned to fit the moodboard through color and visuals. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+My target audience for this presentation is theater stakeholders and decision-makers. I fleshed out my call to action to be targeted at people who are in charge of theaters so they can make modifications that bring back consumers to theaters. I chose to go this way because I want to show the importance of theaters as a moviegoing experience by helping rejuvenate and modernize them to fit what people look for in experiences these days.
 
-Text here!
+## Additional Research
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
@@ -20,15 +18,12 @@ Text here!
 Text here!
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+All references were listed in Shorthand.
 
 ## AI acknowledgements
-Grammarly was utilized to edit grammar and spelling. Google Gemini was used to organize data from articles into excel spreadsheets.
+Grammarly was utilized to edit grammar and spelling. Google Gemini was used to organize data from articles into Excel spreadsheets.
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
-
+For this project, I wish I was able to dedicate more time to fleshing out the presentation and incorporating more interesting details to support my data. I really enjoyed the process as this is a topic I am very passionate about, however, I wasn't able to even scratch the surface of the content I wanted to for this assignment. 
 
