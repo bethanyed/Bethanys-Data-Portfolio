@@ -13,9 +13,7 @@ My target audience for this presentation is theater stakeholders and decision-ma
 ## Additional Research
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+For my final designs, I decided it was most effective and clear to stick to the basic style graphs of bar and line. They were most effective at sharing the data I needed and made the points I needed to make. The only visualization I included that was different is a chart that has different sized blocks to represent each category. I decided that for my overall presentation design, I wanted them all to be color coordinated, following the color scheme associated with the golden age of Hollywood. I focused on reds for the charts and gold for the presentation. 
 
 ## References
 All references were listed in Shorthand.
