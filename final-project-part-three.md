@@ -17,7 +17,7 @@ For my additional research since part 2, I sent people the Shorthand link with a
 <img src="IMG_2141.jpg" width="1000"/>
 
 ## Final design decisions
-For my final designs, I decided it was most effective and clear to stick to the basic style graphs of bar and line. They were most effective at sharing the data I needed and made the points I needed to make. The only visualization I included that was different is a chart that has different sized blocks to represent each category. I decided that for my overall presentation design, I wanted them all to be color coordinated, following the color scheme associated with the golden age of Hollywood. I focused on reds for the charts and gold for the presentation. 
+For my final designs, I decided it was most effective and clear to stick to the basic style graphs of bar and line. They were most effective at sharing the data I needed and made the points I needed to make. The only visualization I included that was different is a chart that has different sized blocks to represent each category. I decided that for my overall presentation design, I wanted them all to be color coordinated, following the color scheme associated with the golden age of Hollywood. I focused on reds and golds on the charts when I wanted to highlight something. I also utilized golds on top of dark backgrounds for the presentation.
 
 ## References
 All references were listed in Shorthand.
