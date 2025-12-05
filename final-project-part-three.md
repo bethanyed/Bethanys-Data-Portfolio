@@ -11,6 +11,7 @@ Since part 2, I have expanded my wireframe into a presentation that is more fles
 My target audience for this presentation is theater stakeholders and decision-makers. I fleshed out my call to action to be targeted at people who are in charge of theaters so they can make modifications that bring back consumers to theaters. I chose to go this way because I want to show the importance of theaters as a moviegoing experience by helping rejuvenate and modernize them to fit what people look for in experiences these days.
 
 ## Additional Research
+<img src="IMG_2141.jpg" width="1000"/>
 
 ## Final design decisions
 For my final designs, I decided it was most effective and clear to stick to the basic style graphs of bar and line. They were most effective at sharing the data I needed and made the points I needed to make. The only visualization I included that was different is a chart that has different sized blocks to represent each category. I decided that for my overall presentation design, I wanted them all to be color coordinated, following the color scheme associated with the golden age of Hollywood. I focused on reds for the charts and gold for the presentation. 
